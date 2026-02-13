@@ -25,7 +25,7 @@ Tic-Tac-Game/
 ## 🚀 Getting Started
 
 ### Prerequisites 
-
+ 
 - A modern web browser (Chrome, Firefox, Safari, Edge, etc.)
 
 ### Installation
