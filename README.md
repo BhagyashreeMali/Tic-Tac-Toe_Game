@@ -7,7 +7,7 @@ A classic Tic-Tac-Toe game built with HTML, CSS, and JavaScript. This interactiv
 - **Two-Player Mode**: Play with a friend on the same device
 - **Winner Detection**: Automatically detects when a player wins
 - **Draw Detection**: Identifies when the game ends in a draw
-- **Reset Functionality**: Reset the game at any time with the reset button
+- **Reset Functionality**: Reset the game at any time with the reset button 
 - **New Game**: Start a fresh game after a winner is declared
 - **Responsive Design**: Clean and centered layout that works on different screen sizes
 - **Visual Feedback**: Color-coded game board with smooth styling
